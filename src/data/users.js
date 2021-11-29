@@ -6,7 +6,7 @@ export const users = [
         firstName: 'Aynur',
         lastName: 'Erkalaycı',
         city: 'İstanbul',
-        age: 34,
+        age: "34",
         creditCardNumber: '123456',
         type: 'customer'
     },
